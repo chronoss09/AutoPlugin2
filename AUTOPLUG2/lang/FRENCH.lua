@@ -187,7 +187,7 @@ FRENCH["UNINSTALLP_EMPTY"] =                        "-= Pas de plugin installé 
 FRENCH["UNINSTALLP_NO_PLUGINS"] =                   "Pas de plugins dans cette section"
 FRENCH["UNINSTALLP_PLUGINS_NEED"] =                 "est nécessaire pour la fonctionnalité des plugins suivants"
 FRENCH["UNINSTALLP_QUESTION_NEED"] =                "Vous voulez les désinstaller aussi ?"
-FRENCH["UNINSTALLP_SYSTEM_PLUGIN"] =                "Doit avoir un plugin, ne peut pas se désinstaller !"
+FRENCH["UNINSTALLP_SYSTEM_PLUGIN"] =                "Plugin obligatoire, ne peut être désinstaller !"
 
 --install sd2vita
 FRENCH["MENU_TITLE_SD2VITA"] =                      "Mise en place du plugin Storage Manager pour la SD2VITA"
@@ -371,6 +371,7 @@ FRENCH["TURKISH"] =                                 "TURC"
 FRENCH["INSTALLP_DESC_SD2VITA"] =                   "Plugin Kernel qui monte et ré-dirige automatiquement tout périphérique de stockage vers le répertoire que vous souhaitez (SD2VITA)"
 
 --KERNEL
+FRENCH["INSTALLP_DESC_NOTRPDRM"] =              	  "NoTrpDrm est un plugin qui permet d'utiliser le pack de trophées officiels avec sceNpTrophy pour les homebrews sur un système PlayStation Vita"
 FRENCH["INSTALLP_DESC_VITACONTROL"] =               "Use bluetooth controllers on your Vita! (DS3, DS4, Sony DualSense, Sony DualSense Edge, Microsoft Xbox One, Nintendo Switch Pro)"
 FRENCH["INSTALLP_DESC_NOPSPEMUDRM"] =               "Un plugin pour contourner toutes les vérifications DRM des jeux PSP officiel, afin que vous puissiez jouer aux jeux PSP ou PS1 en version numériques; ou bien sûr, a des jeux que vous possédez légitimement mais sur un autre compte PSN"
 FRENCH["INSTALLP_DESC_TVIKEY"] =                    "Pilote du noyau PSTV pour souris/clavier"
